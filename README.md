@@ -12,8 +12,7 @@ Selalu tertarik untuk mengeksplorasi hal-hal baru dan mengembangkan diri di duni
 
 🎯 Fokus saya saat ini:
 - Belajar dan mengembangkan aplikasi web & backend
-- Mengeksplorasi dunia AI & sistem prediktif
-- Membuat proyek-proyek open-source yang bermanfaat
+- Belajar tentang frontend
 
 🔗 **Kunjungi portofolio saya:**  
 [![Visit Portfolio](https://img.shields.io/badge/🌐%20Kunjungi%20Portofolio-blue?style=for-the-badge)](https://dhickymahesya.github.io/Dhicky-Portofolio-web/)
@@ -22,7 +21,7 @@ Selalu tertarik untuk mengeksplorasi hal-hal baru dan mengembangkan diri di duni
 
 ### 📫 Kontak Saya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhicky%20Mahesya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhickymahesya)  
-📧 Email: `dhickymahesya@gmail.com`
+📧 Email: `dhivanipramana19@gmail.com`
 
 ---
 
